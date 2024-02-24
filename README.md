@@ -1,1 +1,1 @@
-<p align="center">Praktikum minggu 2 pemograman web</p>
+<p align="center">Praktikum pemograman web</p>
